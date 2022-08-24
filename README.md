@@ -58,6 +58,12 @@ requirements = python3, kivy, firestore4kivy, requests, urllib3, charset-normali
 android.permissions = INTERNET
 ```
 
+### kivy-ios
+
+```
+toolchain pip install firestore4kivy
+```
+
 # Firestore
 
 ## Checklist
