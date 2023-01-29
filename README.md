@@ -53,7 +53,7 @@ pip3 install firestore4kivy
 ### Buildozer
 
 ```
-requirements = python3, kivy, firestore4kivy, requests, urllib3, charset-normalizer, idna, certifi
+requirements = python3, kivy, firestore4kivy, requests, urllib3, charset-normalizer==2.1.1, idna, certifi
 
 android.permissions = INTERNET
 ```
