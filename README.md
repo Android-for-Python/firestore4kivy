@@ -3,6 +3,8 @@ Firestore4Kivy
 
 *A very basic, lightweight, machine independent Firestore API*
 
+**2023-11-13 This repository is archived.**
+
 # Introduction
 
 The package contains methods to authorize and perform CRUD operations on a Firestore database. The data saved and retrieved is a *constrained* Python dict, constrained by the datatypes and resources available on Firestore. The implementation uses REST APIs.
